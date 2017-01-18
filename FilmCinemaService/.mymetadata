@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FilmCinemaService"
+  id="myeclipse.1481378088666"
+  context-root="/FilmCinemaService"
+  j2ee-spec="6.0"
+  archive="FilmCinemaService.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
